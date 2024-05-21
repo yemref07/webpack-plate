@@ -1,0 +1,15 @@
+// Required
+
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #111;
+$color-theme:teal;
+
+// scss-docs-start theme-color-variables
+$primary: red;
+$secondary: orange;
+
+
+// "Variable overrides must come after our functions are imported, but before the rest of the imports."
+@import "bootstrap/scss/bootstrap";

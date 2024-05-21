@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "Acme",
+      "price": 899.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "brand": "Beats",
+      "price": 249.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "brand": "Brand X",
+      "price": 19.99,
+      "category": "Clothing"
+    }
+  ]
+  

@@ -1,0 +1,29 @@
+// Add our variable and mixins an other sass utilities
+@import "variables";
+
+@font-face{
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.eot');
+    src: url('../fonts/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/Poppins-Regular.woff') format('woff'),
+        url('../fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+.main-title{
+    color:$color-theme;
+    font-size:16px;
+    font-weight:bold;
+    font-family:"Poppins";
+}
+
+.hello{
+    color:red;
+    font-family:"Poppins";
+
+}
+
